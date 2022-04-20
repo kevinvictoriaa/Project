@@ -1,0 +1,4 @@
+
+
+class Cocineros(Empleado):
+    pass

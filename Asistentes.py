@@ -1,0 +1,3 @@
+
+class Asistentes(Cocineros):
+    pass

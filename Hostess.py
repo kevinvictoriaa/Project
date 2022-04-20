@@ -1,0 +1,3 @@
+
+class Hostess(Empleado):
+    pass

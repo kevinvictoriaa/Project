@@ -1,0 +1,3 @@
+
+class Chef(Cocineros):
+    pass
