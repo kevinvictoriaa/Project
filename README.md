@@ -1,4 +1,4 @@
-# Project
+# Project Kevin De La Victoria (200146034) and Omar Cifuentes(200152245) 
 Codigo Uml en Python y requisito funcional.
 
 @@startuml
@@ -14,9 +14,6 @@ class  Empleados{
 
 
 }
-
-
-
 
 
 class Bartender extends  Empleados{
