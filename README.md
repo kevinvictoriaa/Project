@@ -10,9 +10,9 @@ Como en cualquier empresa, cada persona tiene una labor, y en el restaurante no 
 •	Crear un sistema de propinas y empleados
 •	Crear un sistema para darle una bonificación a los empleados
 •	Generar al final de cada semana estadísticas detalladas acerca de las ventas:
- -	Ventas por cada día
- -	Día con mayor número de ventas
- -	Día con menor número de ventas
+ #Ventas por cada día
+ #	Día con mayor número de ventas
+ #	Día con menor número de ventas
 •	Mostrar empleado con mayor número de ventas a la semana
  
 
