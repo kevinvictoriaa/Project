@@ -1,5 +1,4 @@
-# Project Kevin De La Victoria (200146034) and Omar Cifuentes(200152245) 
-UML 
+# Project By: Kevin De La Victoria  and Omar Cifuentes
 
 ![a186f236-2ef9-4b07-894f-59c4abcf9145](https://user-images.githubusercontent.com/98917801/164521069-60841cb2-519a-4682-9304-45d4f7086e94.jpg)
 
@@ -11,9 +10,9 @@ Como en cualquier empresa, cada persona tiene una labor, y en el restaurante no 
 •	Crear un sistema de propinas y empleados
 •	Crear un sistema para darle una bonificación a los empleados
 •	Generar al final de cada semana estadísticas detalladas acerca de las ventas:
--	Ventas por cada día
--	Día con mayor número de ventas
--	Día con menor número de ventas
+ -	Ventas por cada día
+ -	Día con mayor número de ventas
+ -	Día con menor número de ventas
 •	Mostrar empleado con mayor número de ventas a la semana
  
 
