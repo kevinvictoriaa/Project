@@ -1,88 +1,19 @@
 # Project Kevin De La Victoria (200146034) and Omar Cifuentes(200152245) 
-Codigo Uml en Python y requisito funcional.
+UML 
 
-@@startuml
+![a186f236-2ef9-4b07-894f-59c4abcf9145](https://user-images.githubusercontent.com/98917801/164521069-60841cb2-519a-4682-9304-45d4f7086e94.jpg)
 
+•	Crear un sistema eficiente de registro de pedidos
+•	Crear un sistema que muestra los pedidos en la cocina
+•	Crear un sistema para las operaciones de caja
+•	Crear un sistema de propinas y empleados
+•	Crear un sistema para darle una bonificación a los empleados
+•	Generar al final de cada semana estadísticas detalladas acerca de las ventas:
+-	Ventas por cada día
+-	Día con mayor número de ventas
+-	Día con menor número de ventas
+•	Mostrar empleado con mayor número de ventas a la semana
+ 
+Como en cualquier empresa, cada persona tiene una labor, y en el restaurante no es la excepción, sobre todo en el aspecto de la cocina, pues es necesaria una total organización y compromiso por parte de los trabajadores, para que los resultados sean los mejores.
 
-class  Empleados{
-
--Nombre_empleado:str
--Apellidos_del_empleado:str
--Id_empleado:str
--Usuario:str
--Passaword:str
-
-
-}
-
-
-class Bartender extends  Empleados{
-
--barra: Barra
-
-}
-class Mesero extends  Empleados{
-
--mesas: Lis<Mesas>
-
-}
-class Hostess extends  Empleados
-{
-
-}
-class Maitre extends  Empleados{
-
-}
-
-
-abstract class Cliente extends  Maitre {
-
-
-
-}
-abstract class Cliente extends  Hostess {
-
-+Clietes: List<Cliente>
-
-}
-
-
-
-class Barra extends  Bartender{
-
-+Clietes: List<Cliente>
-
-}
- class Mesas  extends  Mesero {
-
--numeroMesa: int
--cantSillas: int
--clientes: List <Cliente>
-
-}
-
- class Cocinero extends  Empleados {
-
-#tipo 
-
-}
- class Chef extends  Cocinero {
-
-
-}
-class Asistentes extends  Cocinero {
-
-
-}
-
-@@enduml
-
-  
-  
-  
-  
-  
-  
-  
-  
-
+La lista que tenemos no está organizada jerárquicamente, pues cada uno de los empleados de un restaurante cumple una actividad muy importante dentro del funcionamiento del establecimiento.
